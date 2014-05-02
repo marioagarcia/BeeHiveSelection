@@ -254,13 +254,6 @@ namespace BeehiveSelection {
         private void CreateBeesTest(int scoutCount) {
             Swarm.CreateBeesTest(scoutCount, potentialSites[0]);
         }
-
-        private void generateGraph() {
-            //int vertexCount = 5;
-
-            //var graph = new BidirectionalmatrxGraph<
-
-        }
         #endregion
 
         #region UI events

@@ -309,7 +309,6 @@ namespace BeehiveSelection
             double yValue = Math.Min(flightLength * Math.Sin(searchAngle) + memory.Location.Y, 500);
             yValue = Math.Max(yValue, 0);
             memory.Destination = new Location(new PointF((float)xValue, (float)yValue));
-            //memory.Status = State.EXPLORING;
         }
 
         /// <summary>

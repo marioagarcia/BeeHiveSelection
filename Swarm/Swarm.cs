@@ -72,7 +72,7 @@ namespace BeehiveSelection
 
             Bee.State[] states = { Bee.State.EXPLORING, Bee.State.OBSERVING, Bee.State.RESTING, Bee.State.ASSESSING, Bee.State.DANCING };
 
-            //              R   O   E   A   D
+            //            R   O   E   A   D
             int[] test = {20, 20, 60, 0, 0};
 
             for (int i = 0; i < test[0]; i++) {

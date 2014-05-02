@@ -25,11 +25,11 @@ namespace BeehiveSelection
         public static int OBSERVING_DURATION = 8;
         public static int EXPLORING_DURATION = 60; // 20 + returning = 30
 
-        /*public const double leaveRestingProb = .2;  
-        public const double leaveObservingProb = .0125;
-        public const double leaveExpoloringProb = .7;
-        public const double leaveAccessingProb = 1;   
-        public const double observingToExploringProb = .05;*/
+        /*public const double LEAVE_RESTING_PROB = .2;  
+        public const double LEAVE_OBSERVING_PROB = .0125;
+        public const double LEAVE_EXPLORING_PROB = .7;
+        public const double LEAVE_ASSESSING_PROB = 1;   
+        public const double OBSERVING_TO_EXPLORING_PROB = .05;*/
         public static int NOISE_THRESHOLD = 20;
         public static double RECRUITMENT_CONSTANT = .1;
 

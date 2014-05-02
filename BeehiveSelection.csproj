@@ -78,9 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Drawing\Arrow.cs" />
-    <Compile Include="Drawing\GraphParts\Graph.cs" />
-    <Compile Include="Drawing\GraphParts\GraphEdge.cs" />
-    <Compile Include="Drawing\GraphParts\GraphVertex.cs" />
     <Compile Include="Drawing\TaskDistribuitionGraphModel.cs" />
     <Compile Include="Swarm\Bee.cs" />
     <Compile Include="Drawing\Circle.cs" />
